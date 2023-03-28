@@ -18,7 +18,7 @@ Here is some result:
 Original screenshot from video:
 ![Screenshot1](examples/23_21_05_whole.png?raw=true "View from clip")
 Camera cut from video:
-![Screenshot2](examples/23_21_05_src_cut.png?raw=true "View from camera")
+![Screenshot2](examples/23_21_05_scr_cut.png "View from camera")
 
 You can check more results in the 'examples' folder!
 
