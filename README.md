@@ -14,13 +14,16 @@ It will resolve in extracting from all videos in path, camera cut and saving it 
 Here is some result:
 
 *DISCLAMER ALL MATERIAL COMES FORM www.twitch.tv/yokah_lol
-
+<p align="center">
 Original screenshot from video:
 ![Screenshot1](examples/23_21_05_whole.png?raw=true "View from clip")
 Camera cut from video:
+
 ![Screenshot2](examples/23_21_05_scr_cut.png "View from camera")
 
 You can check more results in the 'examples' folder!
+</p>
+
 
 
 
