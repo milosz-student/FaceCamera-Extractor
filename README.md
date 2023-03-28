@@ -11,8 +11,6 @@ asd.extract_all()
 ```
 It will resolve in extracting from all videos in path, camera cut and saving it with screenshot.
 
-Here are some examples:
+You can check out results in the 'examples' folder.
 
-[![Example Video1] (examples/23_21_05.mp4)]
-[![Example Camera from Video1] (examples/23_21_05_camera.mp4)]
-[![Example Cut from Video1] (examples/23_21_05_src_cut.png)]
+
