@@ -12,6 +12,7 @@ asd.extract_all()
 It will resolve in extracting from all videos in path, camera cut and saving it with screenshot.
 
 Here is some result:
+*DISCLAMER ALL MATERIAL COMES FORM www.twitch.tv/yokah_lol
 Original screenshot from video:
 ![Screenshot1](examples/23_21_05_whole.png?raw=true "View from clip")
 Cut camera view from video:
