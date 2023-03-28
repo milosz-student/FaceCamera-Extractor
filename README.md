@@ -13,9 +13,9 @@ It will resolve in extracting from all videos in path, camera cut and saving it 
 
 Here is some result:
 Original screenshot from video:
-![Screenshot1](./examples/23_21_05_whole.png?raw=true "View from clip")
+![Screenshot1](examples/23_21_05_whole.png?raw=true "View from clip")
 Cut camera view from video:
-![Screenshot1](./examples/23_21_05_src_cut.png?raw=true "View from clip")
+![Screenshot1](examples/23_21_05_src_cut.png?raw=true "View from clip")
 
 You can check more results in the 'examples' folder!
 
